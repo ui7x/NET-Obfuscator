@@ -1,0 +1,15 @@
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\bin\Debug\Obfuscator.exe.config
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\bin\Debug\Obfuscator.exe
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\bin\Debug\Obfuscator.pdb
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\bin\Debug\dnlib.dll
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\bin\Debug\dnlib.xml
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.csproj.AssemblyReference.cache
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.Properties.Resources.resources
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.csproj.GenerateResource.cache
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.csproj.Up2Date
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.exe
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.pdb
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\bin\Debug\Guna.UI2.dll
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\bin\Debug\Guna.UI2.xml
+C:\Users\k9\source\repos\Obfuscator\Obfuscator\obj\Debug\Obfuscator.Form1.resources
